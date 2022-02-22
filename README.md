@@ -1,3 +1,4 @@
+
 #Carros
 
  Como será o seu carro no futuro? As montadoras aproveitaram a CES (Consumer Eletronic Show), maior feira de tecnologia do 
@@ -7,6 +8,11 @@ mundo, para apresentarem o que estão pensando para as próximas gerações de a
 distante.
 linha aleatória alterada aqui, só pra dar confusão na hora do merge memokkkkkjjjj
 mais uma 
-carros futuristas tinham que ser voadores
+carros futuristas tinham que ser voadores </br>
 Teste Tamires
+
+Texto da Branch da Tamires
+
 OLA AMIGOS ( PATRICK)
+
+Texto da branch Tamires
